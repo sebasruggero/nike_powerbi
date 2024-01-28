@@ -1,6 +1,4 @@
-
-
-Nike Data Analysis Project
+## Nike Data Analysis Project
 
 ![Delitos CABA](nike/gif/video.gif)
 
