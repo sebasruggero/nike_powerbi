@@ -1,6 +1,6 @@
 ## Nike Data Analysis Project
 
-![Delitos CABA](nike/gif/video.gif)
+![Nike](nike/gif/video.gif)
 
 
 In this Power BI project focused on the renowned brand Nike, I utilized publicly available datasets and employed Deneb for analyzing and visualizing key insights. The project was meticulously crafted with a strong emphasis on enhancing the user experience. Through dynamic dashboards and interactive reports, my goal was to provide a comprehensive view of Nike's performance, market trends, and consumer engagement.
